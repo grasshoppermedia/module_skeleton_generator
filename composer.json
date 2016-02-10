@@ -1,0 +1,17 @@
+{
+    "name": "grasshoppermedia/module_skeleton_generator",
+    "type": "oxid-module",
+    "description": "Folders structure, empty classes and metadata generation for new OXID eShop modules.",
+    "authors": [
+        {
+            "name": "OXID Professional Services",
+            "email": "info@oxid-esales.com",
+            "homepage": "http://www.oxid-esales.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "composer/installers": "1.0.*@dev"
+    }
+}
